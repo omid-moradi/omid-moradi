@@ -35,6 +35,6 @@ const response = {
 <a href='https://www.instagram.com/the.omid80'><img width = '85px' height = '85px' src='https://github.com/omid-moradi/omid-moradi/assets/164475131/083e65ef-a95a-44ec-bcf7-9491579c838a' alt = 'Instagram'/></a> &nbsp;
 <a href='https://t.me/teomid80'><img width = '85px' height = '85px' src='https://github.com/omid-moradi/omid-moradi/assets/164475131/4755a036-1f09-4710-9300-b02cadedae80' alt = 'Telegram'/></a> &nbsp;
 <a href='https://wa.me/qr/7H6ZPI5NJA7XK1'><img width = '85px' height = '85px' src='https://github.com/omid-moradi/omid-moradi/assets/164475131/da21c921-e29b-48ba-be8d-16c1bc638bfb' alt = 'Whatsapp'/></a> &nbsp;
-<a href='moomid@gmail.com'><img width = '85px' height = '85px' src='https://github.com/omid-moradi/omid-moradi/assets/164475131/6218379a-e352-4256-9df1-9cd636734d23' alt = 'Gmail'/></a>
+<a href='moomid555@gmail.com'><img width = '85px' height = '85px' src='https://github.com/omid-moradi/omid-moradi/assets/164475131/6218379a-e352-4256-9df1-9cd636734d23' alt = 'Gmail'/></a>
 
 
