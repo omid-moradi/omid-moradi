@@ -1,3 +1,4 @@
+```
 const response = {
   status: 202,
   data: {
@@ -9,3 +10,4 @@ const response = {
     quote: "We Dream and Achieve."
   },
 };
+```
